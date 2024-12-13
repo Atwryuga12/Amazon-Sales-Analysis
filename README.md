@@ -1,21 +1,33 @@
+Project Dashboard Link - https://1drv.ms/x/c/09b45a51e49ea094/Ed2NigwgmDxArFgRV0kx-3MBfys9Y5kFLDtOufMFHxtA7g?e=gr6ZqC
+
 # Amazon-Sales-Analysis
+Analyzed road accident data from the UK (2021–2022) to uncover key factors contributing to accidents and develop insights to minimize casualties. The project aimed to identify trends and create strategies to reduce accidents.
 
-**Project Description:**
+Task:
+The goal was to generate actionable insights that could inform safety policies and reduce road accidents by understanding casualty patterns and contributing factors.
 
-This project involves performing an in-depth analysis of Amazon sales transaction data to extract actionable insights that can inform business decision-making. The dataset includes crucial details such as order ID, date, status, fulfilment method, sales channel, product category, size, quantity, amount, shipping information, and more.
+Data Cleaning and Preparation: Conducted complete data preparation and cleaning using MS Excel.
+Analysis: Performed advanced data analysis on accident severity, vehicle type, road conditions, and accident time (day/night).
+Visualization: Created visualizations to compare monthly trends, vehicle type casualties, road types, and day/night accidents.
 
-Key analysis areas include:
+Key Metrics: Total casualties, accident severity breakdown, casualties by vehicle type, and casualty distribution across urban vs. rural areas.
 
-Sales Overview: A comprehensive analysis of overall sales performance, identifying key trends and patterns over time to gauge business growth and seasonal fluctuations.
+Insights:
+Casualties: Fatality rate was 2%, with 84% of accidents resulting in slight injuries.
+Vehicle Type: 80% of casualties involved cars.
+Location: 61% of accidents occurred in urban areas, with 39% in rural areas.
+Timing: 73% of accidents occurred during daylight, while 27% happened at night.
+Road Type: 74% of accidents occurred on single carriageway roads.
+Road Surface: 65% of accidents took place on dry road surfaces.
+Identified a reduction in casualties from the previous year.
 
-Product Analysis: A detailed breakdown of product categories, sizes, and quantities sold to identify top-performing products and demand shifts, enabling targeted inventory and sales strategies.
+Provided data-driven insights to guide policy decisions aimed at reducing accidents, with a focus on vehicle types, road conditions, and time-of-day factors.
 
-Fulfillment Analysis: Evaluation of various fulfillment methods to assess their effectiveness in ensuring timely and accurate order deliveries, with insights aimed at improving operational efficiency.
+Skills Utilized:
+Data Preparation and Cleaning (Excel)
+Advanced Data Analysis and Insights Generation
+Data Visualization and Dashboard Development
+Trend Analysis
 
-Customer Segmentation: Classification of customers based on purchasing behavior, location, and other relevant factors, enabling personalized marketing and optimized customer engagement strategies.
-
-Geographical Analysis: Examination of sales distribution across regions, focusing on states and cities, to identify high-performing areas and uncover potential opportunities for market expansion.
-
-Business Insights: Synthesis of findings to provide strategic recommendations for optimizing sales approaches, improving customer satisfaction, and enhancing business performance.
-
-This analysis supports data-driven decision-making, helping the business refine its sales strategies, optimize inventory management, and improve customer experience.
+Outcome:
+The project demonstrated the ability to identify key factors affecting road safety and provided insights that could inform policies and strategies for reducing accidents.
