@@ -29,4 +29,5 @@ By cleaning, analyzing, and visualizing the data, I provided actionable insights
 
 ## Dashboard Screenshot 
 
-![Uploading Screenshot 2024-12-02 125206.png…]()
+![Screenshot 2024-12-02 125206](https://github.com/user-attachments/assets/2cacd837-3ce3-4607-953f-c5f58934a93f)
+
