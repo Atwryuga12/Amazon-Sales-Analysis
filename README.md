@@ -1,4 +1,5 @@
-Project Dashboard Link - https://1drv.ms/x/c/09b45a51e49ea094/Ed2NigwgmDxArFgRV0kx-3MBfys9Y5kFLDtOufMFHxtA7g?e=gr6ZqC
+<a href="https://1drv.ms/x/c/09b45a51e49ea094/Ed2NigwgmDxArFgRV0kx-3MBfys9Y5kFLDtOufMFHxtA7g?e=gr6ZqC
+" target="_blank" style="text-decoration: none; padding: 10px 20px; background-color: #24292f; color: #ffffff; border-radius: 5px;">Dashboard Link</a>
 
 # Amazon-Sales-Analysis
 During my one-month internship, I was assigned a project to analyze an Amazon sales dataset. The objective was to uncover trends, patterns, and key insights to support data-driven decisions.
